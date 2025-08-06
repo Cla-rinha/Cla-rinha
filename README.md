@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou a Maria Clara 👋
 
-<!--
-**Cla-rinha/Cla-rinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento de Sistemas  
+☕ Gosto bastante de Java e tecnologias backend  
+📚 Aprendendo também PHP e MySQL
+🎯 Meu objetivo é ser uma desenvolvedora full stack
 
-Here are some ideas to get you started:
+## 🚀 Projetos básicos em Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-
+-
+-
+
+## 📫 Contato
+
+- Email: Malvesoliveira53@gmail.com  
+- LinkedIn:
