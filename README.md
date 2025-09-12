@@ -8,12 +8,6 @@
 
 🎯 Meu objetivo é ser uma desenvolvedora full stack
 
-## 🚀 Projetos básicos em Java
-
--
--
--
-
 ## 📫 Contato
 
 - Email: Malvesoliveira53@gmail.com  
