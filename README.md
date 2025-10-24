@@ -1,3 +1,5 @@
+background: #000
+
 # Olá! Eu sou a Maria Clara 👋
 
 💻 Estudante de Desenvolvimento de Sistemas  
